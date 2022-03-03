@@ -2,7 +2,6 @@
 ## Bioinformática
 27 de febrero 2022
 - Nombre: Sulma Alvarado
-- 
 # Carcaterísticas del compuador
 - Marca: DESKTOP-HR150CS
 - Identificador de dispositivo: 37BD0A6C-4197-446C-A4E7-B2C0D30D2C83
